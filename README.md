@@ -43,14 +43,14 @@ Benchmarked against:
 - Random Forest Regressor
 - Support Vector Regressor (SVR)
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/EeWeiLi/FYP_StockPricePrediction_LSTM.git
-cd FYP_StockPricePrediction_LSTM
-
 ## User Guide
 1. Select a stock brand from the sidebar.
 2. Choose the number of days to predict into the future (30 to 100).
 3. Filter historical date range to visualize past trends.
 4. Click "Show Predicted Values" to view a table of forecasted prices.
 5. Download historical data as CSV if needed.
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/EeWeiLi/FYP_StockPricePrediction_LSTM.git
+cd FYP_StockPricePrediction_LSTM
